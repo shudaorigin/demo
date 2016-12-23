@@ -6,3 +6,9 @@ if(true)
 {
    println("ok");
 }
+
+
+for(int k0;k<4;k++)
+{
+   println("sdfsf");
+}
