@@ -4,11 +4,11 @@ Again！
 
 if(true)
 {
-   println("ok");
+   system.out.println("ok");
 }
 
 
 for(int k0;k<4;k++)
 {
-   println("sdfsf");
+   system.out.println("sdfsf");
 }
